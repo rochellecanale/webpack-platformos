@@ -1,5 +1,7 @@
+import displayDate from './date-component';
+
 let getCurrentDate = () => {
-  console.log('Current Date/Time is: ', new Date());
+  console.log(displayDate());
 }
 
 getCurrentDate();
