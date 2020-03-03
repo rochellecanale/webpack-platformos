@@ -5,7 +5,7 @@ import './app.css';
 
 let getCurrentDate = () => {
   console.log(displayDate());
-  greeter('Cyrus');
+  greeter('from webpack');
 }
 
 getCurrentDate();
