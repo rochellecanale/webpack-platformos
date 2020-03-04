@@ -1,0 +1,7 @@
+$bg: #ccc;
+body {
+  background-color: $bg;
+  p {
+    color: red !important;
+  }
+}
